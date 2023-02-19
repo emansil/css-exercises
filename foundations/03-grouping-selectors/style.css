@@ -1,0 +1,15 @@
+/* styles.css Emanuel - Solution */
+.buttonOne,
+.buttonTwo{
+    font-size: 28px;
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+}
+
+.buttonOne{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.buttonTwo{
+    background-color: yellow;
+}
